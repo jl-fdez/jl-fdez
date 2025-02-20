@@ -17,6 +17,8 @@
 ### 🌟 Fun fact  
   ⚡ Como dato curioso, soy músico de varios instrumentos y a veces uno mis dos pasiones: la tecnología y la música. 🎶💻  
 
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jl-fernandez&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 jorgeluisfdez/jorgeluisfdez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
